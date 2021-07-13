@@ -4,7 +4,7 @@ import './css/style.css';
 
 const Tempapp = () => {
     const [city, setCity] = useState('null');
-    const [search, setSearch] = useState('chennai');
+    const [search, setSearch] = useState('indor');
 
     
 

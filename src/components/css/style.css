@@ -204,4 +204,9 @@ input[type=search]{
     outline: greenyellow;
     font-weight: 800;
 }
-
+.errorMsg{
+    font-size: 3rem;
+    position: absolute;
+    margin-left: 23%;
+    margin-top: 25%;
+}
